@@ -4,6 +4,8 @@
 
 ---
 
+Deployed Link : https://wanderai-six.vercel.app/
+
 ## 📸 Overview & Key Features
 
 WanderAI allows users to interact with a conversational AI travel specialist or use an intuitive Quick Form to design bespoke vacation plans. 
@@ -95,10 +97,6 @@ mstc/
    npm run dev
    ```
 
-5. Open your browser and visit:
-   ```
-   http://localhost:5173/
-   ```
 
 ---
 
